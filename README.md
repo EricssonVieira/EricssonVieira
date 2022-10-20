@@ -1,2 +1,4 @@
 ## Salvee, aqui é o Ericsson 👋
-### seja bem vindo ao meu meu perfil
+
+[![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]
+
